@@ -30,4 +30,4 @@ The client has requested a landing page that is optimized for search engines and
 
 ### Screenshot
 
-![People standing around table](./assets/01-html-css-git-homework-demo.png)
+![People standing around table.](./assets/01-html-css-git-homework-demo.png)
