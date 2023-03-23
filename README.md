@@ -15,5 +15,5 @@ for this challenge, I was tasked with redoing the codebase for Horiseon.
 ## Website Link
 https://prototype1309.github.io/Homework-Repo/
 
-<div role="img" aria-label="people standing around a desk">
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](.Asset/assets/images/01-html-css-git-homework-demo.png)
  
