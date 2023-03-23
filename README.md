@@ -15,9 +15,5 @@ for this challenge, I was tasked with redoing the codebase for Horiseon.
 ## Website Link
 https://prototype1309.github.io/Homework-Repo/
 
-Horiseon.png
-
-    
-    
-![alt text]("C:\Users\19195\OneDrive\Desktop\IMG\Horiseon.png") 
+<div role="img" aria-label="people standing around a desk">
  
