@@ -1,7 +1,7 @@
 
 
 
-<title> Horiseon New Code </title>
+<title>Horiseon New Code</title>
 
 
 
@@ -14,8 +14,4 @@
  <li> accessible alt attributes </li>
  <li> the heading attributes fall in sequential order </li>
 </ul>
-
-
-"../images/digital-marketing-meeting.jpg"
-
- 
+ image.png
