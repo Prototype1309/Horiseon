@@ -15,5 +15,5 @@ for this challenge, I was tasked with redoing the codebase for Horiseon.
 ## Website Link
 https://prototype1309.github.io/Homework-Repo/
 
-![People standing around meeting table](./Asset-00/01-html-css-git-homework-demo.png)
+![People standing around meeting table](./Assets-00/01-html-css-git-homework-demo.png)
  
