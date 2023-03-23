@@ -15,4 +15,4 @@
  <li> the heading attributes fall in sequential order </li>
 </ul>
 
-![alt text](http://https://files.slack.com/files-pri/T04NDFF78KG-F050BB06ABS/127.0.0.1_5500_develop_index.html.png/to/img.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png01-html-css-git-homework-demo.png)
